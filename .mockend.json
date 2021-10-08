@@ -1,3 +1,29 @@
 {
-  "User": {}
+  "User": {
+    "CurrentUserRole": {
+      "role": "admin",
+      "teamid": "1234567890abcDEF!@#"
+    },
+    "_id": "1234567890abcDEF!@#",
+    "email": "austinturner@qwikrecruiting.com",
+    "firstName": "Austin",
+    "lastName": "Turner",
+    "lastLogin": "2021-10-08T18:24:01.621Z",
+    "UserRoles": [
+      {
+        "_id": "1234567890abcDEF!@#",
+        "role": "admin",
+        "teamid": "1234567890abcDEF!@#"
+      }
+    ],
+    "VideoSettings": [
+      {
+        "muteaudio": true,
+        "showannotations": false,
+        "showtrims": true,
+        "playbackstate": 3,
+        "shownotesinfullscreen": true
+      }
+    ]
+  }
 }
